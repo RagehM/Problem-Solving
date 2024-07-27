@@ -1,0 +1,41 @@
+long = long * long
+long = (long) int * int
+
+
+Double area = 3.141592653 * r * r;
+        String formated = String.format("%.9f", area);	
+
+
+2.147×10^9
+-2.147×10^9
+
+Sum = n*(n+1)/2
+
+(double) a / b: Casts a to double before division, ensuring the result is a double
+
+if we want to split on + * / - we will need to add \\ before them
+
+Math.pow returns a double
+
+if we compare two values that may go greater than long we may consider taking log 
+
+
+we can use ^ for xor operator that perform bitwise operation
+
+2147483647 max pos value for 32 bits
+
+byte b = 127;
+int a = 12;
+
+b = a cant store 32 bits in 8 bits 
+so we need to explicit conversion (cast)
+b = (byte) a
+
+a = b will work fine;
+
+float f = 5.6;
+int x = (int) f;
+
+to use method min() for long inputs we can use Long.min()
+
+1 is not a prime number
