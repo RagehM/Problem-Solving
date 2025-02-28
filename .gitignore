@@ -5,6 +5,7 @@ target/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
+git rm -r --cached .idea
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
